@@ -1,1 +1,1 @@
-# OS-singularity
+# OS singularity
